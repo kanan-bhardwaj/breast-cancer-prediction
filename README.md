@@ -1,26 +1,39 @@
-# 🩺 Breast Cancer Prediction
+# 🩺 Breast Cancer Prediction using Machine Learning
 
-A Machine Learning project built using **Python** to predict whether a breast tumor is **Benign** or **Malignant** based on diagnostic features. The project includes data preprocessing, model training, evaluation, and prediction using the Breast Cancer Wisconsin Dataset.
+A Machine Learning project that predicts whether a breast tumor is **Malignant** or **Benign** using the **Breast Cancer Wisconsin Dataset**. The project includes data preprocessing, exploratory data analysis (EDA), model training, evaluation, and a predictive system.
 
 ## 🚀 Tech Stack
 - Python
 - Pandas
 - NumPy
-- Seaborn
 - Matplotlib
+- Seaborn
+- Scikit-learn
 - Jupyter Notebook
 
-## 📊 Features
-- Data Preprocessing
-- Exploratory Data Analysis (EDA)
-- Model Training & Evaluation
-- Breast Cancer Prediction
+## 📌 Models Used
+- Logistic Regression
+- K-Nearest Neighbors (KNN)
+- Decision Tree Classifier
+
+## 📊 Results
+- Logistic Regression (Test Accuracy): **92.98%**
+- KNN (Test Accuracy): **91%**
+- Decision Tree (Test Accuracy): **89.47%**
+
+## ✨ Features
+- Data Preprocessing & EDA
+- Correlation Heatmap & Data Visualization
+- Model Comparison
+- Breast Cancer Prediction System
 
 ## ▶️ Run the Project
+
 ```bash
 pip install -r requirements.txt
 jupyter notebook
 ```
 
 ## 👨‍💻 Author
+
 **Kanan Bhardwaj**

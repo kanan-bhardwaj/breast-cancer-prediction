@@ -6,7 +6,7 @@ A Machine Learning project built using **Python** to predict whether a breast tu
 - Python
 - Pandas
 - NumPy
-- Scikit-learn
+- Seaborn
 - Matplotlib
 - Jupyter Notebook
 
